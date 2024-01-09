@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="titulo">Índice de Masa Corporal (IMC)</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="altura_cm">Altura (cm)</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
